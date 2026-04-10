@@ -1,0 +1,26 @@
+{
+  "overview": "A professional hostel management web application featuring a KPI dashboard, complete resident profile management, visual floor/room occupancy grid, and payment tracking with overdue highlighting. All data is stored locally in the browser.",
+  "features": [
+    "Dashboard with occupancy stats and monthly revenue",
+    "Full resident profile management (add, edit, delete)",
+    "Aadhar number masking for privacy",
+    "Floor-wise visual room grid with occupied/vacant states",
+    "Click-to-view room occupant details",
+    "Payment tracking with overdue highlighting in red",
+    "Search and filter residents by name, room, or floor",
+    "Sidebar navigation with mobile responsive hamburger menu",
+    "Monthly payment summary and status toggling"
+  ],
+  "category": "productivity",
+  "tags": [
+    "hostel",
+    "management",
+    "residents",
+    "payments",
+    "rooms",
+    "dashboard",
+    "react",
+    "tailwind"
+  ],
+  "last_updated": "2026-04-10T10:17:27.712Z"
+}
